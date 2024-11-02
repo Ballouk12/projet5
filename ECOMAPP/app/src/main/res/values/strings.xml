@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="hot_sales">Hot Sales</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="view_all">view all</string>
+    <string name="see_more">see more</string>
+    <string name="hot_sales_buy_now">Buy now!</string>
+    <string name="hot_sales_new">New</string>
+    <string name="search_view_hint">Search</string>
+    <string name="search">Search</string>
+    <string name="best_seller_product_image">Best seller product image</string>
+    <string name="hot_sales_product_photo">Hot sales product photo</string>
+    <string name="qr_code">QR code</string>
+    <string name="search_icon">Search icon</string>
+
+</resources>
